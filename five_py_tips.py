@@ -26,9 +26,12 @@ add(1,"")
 # creating new virtual env 
 
 # venv a folder neve
-virtual venv 
+virtualenv test_folder
 
-source venv/bin/activate
+$ source venv/bin/activate
+
+$ source test_venv/Scripts/activate
+
 # (venv) megjeleneik a command line-ban
 
 (venv) milerik$ pip install selenium
