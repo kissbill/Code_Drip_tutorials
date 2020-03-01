@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=5tcs2qXP3Pg&t=172s
+
 ############# 1 console running ############################################################
 # cmd futtatas
 # cmd -> python -i debbuging
