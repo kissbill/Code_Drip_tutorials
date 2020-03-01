@@ -1,9 +1,21 @@
 ############# 1 console running ############################################################
+# cmd futtatas
+# cmd -> python -i debbuging
+# cmd-ben a fgv hivhato lesz add(2,3)
 
+
+def add(first,second):	
+	return first + second
 
 ############# 2 debugging ################################################
 
-
+add(1,2)
+# bhova rakhato inline, aztan torolheto
+import pdb
+pdb.set_trace()
+add(1,"")
+# cmd -> (Pdb) p add 
+# (Pdb) n
 
 ############# 3 virtual enviroment ################################################
 
