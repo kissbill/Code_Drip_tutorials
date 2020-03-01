@@ -21,7 +21,17 @@ add(1,"")
 
 ############# 3 virtual enviroment ################################################
 
+# pip install virtualenv
 
+# creating new virtual env 
+
+# venv a folder neve
+virtual venv 
+
+source venv/bin/activate
+# (venv) megjeleneik a command line-ban
+
+(venv) milerik$ pip install selenium
 
 ########### 4 list/dict comprehension ###############################################
 
